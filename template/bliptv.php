@@ -1,0 +1,1 @@
+<iframe title="<?php echo $title ?>" src="http://blip.tv/play/<?php echo $id ?>.html" width="<?php echo $width ?>" height="<?php echo $height ?>" frameborder="0" allowfullscreen></iframe><embed type="application/x-shockwave-flash" src="http://a.blip.tv/api.swf#<?php echo $id ?>" style="display:none"></embed>

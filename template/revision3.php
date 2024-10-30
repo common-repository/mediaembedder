@@ -1,0 +1,1 @@
+<embed title="<?php echo $title ?>" class="rev3PlayerEmbed" type="application/x-shockwave-flash" src="http://revision3.com/player-v<?php echo $id ?>" allowFullScreen="true" quality="high" allowScriptAccess="always" width="<?php echo $width ?>" height="<?php echo $height ?>"  />

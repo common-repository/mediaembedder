@@ -1,0 +1,1 @@
+<iframe width="<?php echo $width ?>" height="<?php echo $height ?>" src="http://www.youtube.com/embed/videoseries?list=<?php echo $id ?>&amp;hl=en_GB" frameborder="0" allowfullscreen></iframe>

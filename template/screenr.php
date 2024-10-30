@@ -1,0 +1,1 @@
+<iframe src="http://www.screenr.com/embed/<?php echo $id ?>" width="<?php echo $width ?>" height="<?php echo $height ?>" frameborder="0"></iframe>

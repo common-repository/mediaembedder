@@ -1,0 +1,1 @@
+<a href="<?php echo $url ?>"><img title="<?php echo $title ?>" width="<?php echo $width ?>" src="<?php echo $img ?>" /></a>

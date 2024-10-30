@@ -1,0 +1,1 @@
+<embed title="<?php echo $title ?>" src="http://media.mtvnservices.com/mgid:moses:video:gametrailers.com:<?php echo $id ?>" width="<?php echo $width ?>" height="<?php echo $height ?>" type="application/x-shockwave-flash" allowFullScreen="true" allowScriptAccess="always" base="." flashVars=""></embed>

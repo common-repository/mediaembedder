@@ -1,0 +1,1 @@
+<embed title='<?php echo $title ?>' src='<?php echo $src ?>' width='<?php echo $width ?>' height='<?php echo $height ?>' type='application/x-shockwave-flash' allowFullScreen='true' allowScriptAccess='always' base='.'></embed>

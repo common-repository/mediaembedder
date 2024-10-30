@@ -1,0 +1,1 @@
+<iframe title="<?php echo $title ?>" src="http://www.collegehumor.com/e/<?php echo $id ?>" width="<?php echo $width ?>" height="<?php echo $height ?>" frameborder="0" webkitAllowFullScreen allowFullScreen></iframe>
